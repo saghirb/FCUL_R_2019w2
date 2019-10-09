@@ -11,12 +11,13 @@ output:
 
 ## Prerequisites
 
-Please bring a laptop with a fully charged battery to the workshops.
+**Please bring a laptop with a fully charged battery to the workshops.**
 
-Download and install latest version of the following software **before** the first workshop:
+**Download and install** the latest version of the following software **before** the first workshop:
 
 + [R Software](https://cran.r-project.org/)
 + [Rstudio](https://www.rstudio.com/products/rstudio/download/)
++ 
 
 ## Workshop On-line Materials
 
