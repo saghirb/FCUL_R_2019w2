@@ -8,6 +8,8 @@ output:
     highlight: github
 ---
 
+Welcome to the **FCUL R Workshops** website. Workshops information, notes and materials
+will be posted here.
 
 ## Prerequisites
 
@@ -17,7 +19,6 @@ output:
 
 + [R Software](https://cran.r-project.org/)
 + [Rstudio](https://www.rstudio.com/products/rstudio/download/)
-+ 
 
 ## Workshop On-line Materials
 
