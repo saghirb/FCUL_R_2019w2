@@ -1,0 +1,102 @@
+---
+title: "FCUL R Workshops"
+author: "Saghir Bashir"
+date: "First Semester 2019-20"
+output:
+  prettydoc::html_pretty:
+    theme: cayman
+    highlight: github
+---
+
+
+## Prerequisites
+
+Please bring a laptop with a fully charged battery to the workshops.
+
+Download and install latest version of the following software **before** the first workshop:
+
++ [R Software](https://cran.r-project.org/)
++ [Rstudio](https://www.rstudio.com/products/rstudio/download/)
+
+## Workshop On-line Materials
+
++ **Workshop 1: Introduction to R** _(11 Oct 2019)_ <br>
+  &nbsp; _Learn about the fundamentals of R thinking._ <br>
+  &nbsp; _Practical exercises to understand the fundamentals of R ._
++ **Materials**
+  + To be posted.
+
+<br>
+
++ **Workshop 2: Working with Datasets using data.table** _(18 Oct 2019)_ <br>
+  &nbsp; _Learn to manipulate and summarise data._ <br>
+  &nbsp; _Exercises based on real-life world population data._
++ **Materials**
+  + To be posted.
+
+<br>
+
++ **Workshop 3: Creating HTML and PDF Documents using R Markdown** _(25 Oct 2019)_ <br>
+  &nbsp; _Combining R programming and document writing into one process._ <br>
+  &nbsp; _Learn how to do reproducible research._
++ **Materials**
+  + To be posted.
+
+<br>
+
+<center>
+ **No workshops on 01 Nov 2019 and 08 Nov 2019**
+</center>
+
+<br>
+
++ **Workshop 4: Data Visualisation using `ggplot2`** _(15 Nov 2019)_ <br>
+  &nbsp; _Create beautiful graphical presentations using R._ <br>
+  &nbsp; _Customise your plots._
++ **Materials**
+  + To be posted.
+
+<br>
+
++ **Workshop 5: Getting Started with Git and GitHub for R Users** _(22 Nov 2019)_ <br>
+  &nbsp; _Share you work and collaborate on-line using R._ <br>
+  &nbsp; _Keep the history (and backup) of your work._
++ **Materials**
+  + To be posted.
+
+<br>
+
++ **Workshop 6: Workshops Review & Using R in Real-life** _(29 Nov 2019)_<br>
+  &nbsp;  _Review of previous workshops._ <br>
+  &nbsp;  _Practical exercise to spot and fix common errors._
++ **Materials**
+  + To be posted.
+  
+<br>
+
++ **Workshop 7: Case study: Women in Parliament Data ** _(06 Dec 2019)_ <br>
+  &nbsp; _Use `data.table` and `ggplot` to work with real data._ <br>
+  &nbsp; _Practice reproducible research using a real life example._
++ **Materials**
+  + To be posted.
+
+<br>
+
++ **Workshop 8: Bring Your Data** _(13 Dec 2019)_ <br>
+  &nbsp; _Use R, `data.table` and `ggplot` on your data._ <br>
+  &nbsp;  _We will support you to get you started._
++ **Materials**
+  + To be posted.
+
+
+
+## Learn more about R
+
++ [R weekly](https://rweekly.org/) is curated web site that gives a great weekly 
+summary for the R community. I strongly encourage you to follow it.
+
+## Acknowledgements
+
++ [R Core Team](https://www.r-project.org/contributors.html) for their hard work 
+in developing a stable and reliable product. 
+
