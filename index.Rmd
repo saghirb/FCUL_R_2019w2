@@ -8,7 +8,7 @@ output:
     highlight: github
 ---
 
-Welcome to the **FCUL R Workshops** website. Workshops information, notes and materials
+Welcome to the **FCUL R Workshops** website. Workshop information and materials
 will be posted here.
 
 ## Prerequisites
@@ -102,3 +102,8 @@ summary for the R community. I strongly encourage you to follow it.
 + [R Core Team](https://www.r-project.org/contributors.html) for their hard work 
 in developing a stable and reliable product. 
 
+<br>
+
+<center>
+Last updated: `r format(Sys.time(), '%a %d %b %Y (%H:%M:%S)')`
+</center>
