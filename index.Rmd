@@ -18,7 +18,15 @@ will be posted here.
 **Download and install** the latest version of the following software **before** the first workshop:
 
 + [R Software](https://cran.r-project.org/)
-+ [Rstudio](https://www.rstudio.com/products/rstudio/download/)
++ [RStudio](https://www.rstudio.com/products/rstudio/download/)
+
+**Important:** At each we workshop we will provide links for you to download 
+materials (e.g. workshop notes, exercises and solutions). For consistency and to help
+us support you please:
+
+1. Select a folder on your computer to work in (e.g. `Documents`)
+2. Download and unzip the following file into your selected folder:
+    + http://ilustat.com/shared/FCUL_R_2019w2/FCUL_R_2019w2.zip
 
 ## Workshop On-line Materials
 
@@ -46,9 +54,7 @@ will be posted here.
 
 <br>
 
-<center>
- **No workshops on 01 Nov 2019 and 08 Nov 2019**
-</center>
++ **No workshops on 01 Nov 2019 and 08 Nov 2019**
 
 <br>
 
@@ -103,6 +109,8 @@ summary for the R community. I strongly encourage you to follow it.
 in developing a stable and reliable product. 
 
 <br>
+
+<hr>
 
 <center>
 Last updated: `r format(Sys.time(), '%a %d %b %Y (%H:%M:%S)')`
