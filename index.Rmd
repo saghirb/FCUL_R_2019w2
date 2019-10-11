@@ -36,7 +36,7 @@ us support you please:
 + **Materials**
   + [Exercises: Base R Concepts](https://github.com/saghirb/R-datatable-Intro/raw/master/Exercises/Base-R/Base-R-Exercises.pdf)
   + [Solutions: Base R Concepts](https://raw.githubusercontent.com/saghirb/R-datatable-Intro/master/Exercises/Base-R/Base-R-Solutions.R) 
-    + *Solutions are auto generated so comments are not correct!*
+    + *The comments are not correct as the solutions are auto-generated!*
 
 <br>
 
