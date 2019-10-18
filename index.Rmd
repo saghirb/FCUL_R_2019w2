@@ -26,7 +26,7 @@ us support you please:
 
 1. Select a folder on your computer to work in (e.g. `Documents`)
 2. Download and unzip the following file into your selected folder:
-    + http://ilustat.com/shared/FCUL_R_2019w2/FCUL_R_2019w2.zip
+    + https://ilustat.com/shared/FCUL_R_2019w2/FCUL_R_2019w2.zip
 
 ## Workshop On-line Materials
 
@@ -44,7 +44,7 @@ us support you please:
   &nbsp; _Learn to manipulate and summarise data._ <br>
   &nbsp; _Exercises based on real-life world population data._
 + **Materials**
-  + To be posted.
+  + https://ilustat.com/shared/GSiRdt.zip
 
 <br>
 
