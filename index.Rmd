@@ -53,8 +53,9 @@ us support you please:
   &nbsp; _Combining R programming and document writing into one process._ <br>
   &nbsp; _Learn how to do reproducible research._
 + **Materials**
-  + To be posted.
-
+  + [Notes & Materials](https://ilustat.com/shared/RmarkdownWS.zip)
+  + [Exercise Sheet](https://ilustat.com/shared/RMarkdown-Exercises.pdf)
+  
 <br>
 
 + **No workshops on 01 Nov 2019 and 08 Nov 2019**
