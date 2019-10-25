@@ -55,6 +55,7 @@ us support you please:
 + **Materials**
   + [Notes & Materials](https://ilustat.com/shared/RmarkdownWS.zip)
   + [Exercise Sheet](https://ilustat.com/shared/RMarkdown-Exercises.pdf)
+  + [Solutions to Exercises](https://ilustat.com/shared/RmdWS-Solutions.zip)
   
 <br>
 
