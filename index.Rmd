@@ -67,10 +67,11 @@ us support you please:
   &nbsp; _Create beautiful graphical presentations using R._ <br>
   &nbsp; _Customise your plots._
 + **Materials**
+  + [Hans Rosling Video: Gapminder Data Visualisation](https://youtu.be/jbkSRLYSojo)
   + [Notes & Exercises](https://github.com/saghirb/ggplot2-Intro-Workshop/raw/master/Share/ggplot2-Intro.zip)
+  + [`ggplot2` Exercise Solutions](https://github.com/saghirb/ggplot2-Intro-Workshop/raw/master/Share/ggplot2-Solutions.zip) 
 
-
-<br>
+<br> 
 
 + **Workshop 5: Getting Started with Git and GitHub for R Users** _(22 Nov 2019)_ <br>
   &nbsp; _Share you work and collaborate on-line using R._ <br>
