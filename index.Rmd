@@ -46,6 +46,8 @@ us support you please:
 + **Materials**
   + [Notes & Exercises](https://github.com/saghirb/R-datatable-Intro/raw/master/Share/GSiRdt.zip)
   + [Solutions: World Population `data.table` Exercises ](https://github.com/saghirb/R-datatable-Intro/raw/master/Share/World-Popn-dt-Solutions.zip)
+  + Additional Materials
+    + [data.table Cheat Sheet](https://raw.githubusercontent.com/rstudio/cheatsheets/master/datatable.pdf)
 
 <br>
 
@@ -56,7 +58,10 @@ us support you please:
   + [Notes & Materials](https://ilustat.com/shared/RmarkdownWS.zip)
   + [Exercise Sheet](https://ilustat.com/shared/RMarkdown-Exercises.pdf)
   + [Solutions to Exercises](https://ilustat.com/shared/RmdWS-Solutions.zip)
-  
+  + Additional Materials
+    + [R Markdown Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf)
+    + [On-line R Markdown Book](https://bookdown.org/yihui/rmarkdown/)
+
 <br>
 
 + **No workshops on 01 Nov 2019 and 08 Nov 2019**
@@ -70,6 +75,9 @@ us support you please:
   + [Hans Rosling Video: Gapminder Data Visualisation](https://youtu.be/jbkSRLYSojo)
   + [Notes & Exercises](https://github.com/saghirb/ggplot2-Intro-Workshop/raw/master/Share/ggplot2-Intro.zip)
   + [`ggplot2` Exercise Solutions](https://github.com/saghirb/ggplot2-Intro-Workshop/raw/master/Share/ggplot2-Solutions.zip) 
+  + Additional Materials
+    + [ggplot2 extensions](www.ggplot2-exts.org/)
+    + [ggplot2 Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf)
 
 <br> 
 
