@@ -84,6 +84,10 @@ us support you please:
 + **Workshop 5: Getting Started with Git and GitHub for R Users** _(22 Nov 2019)_ <br>
   &nbsp; _Share you work and collaborate on-line using R._ <br>
   &nbsp; _Keep the history (and backup) of your work._
++ **Pre-workshop setup**
+  + Install git from https://git-scm.com/downloads
+  + Create a GitHub account at: https://github.com/
+  + Recommended: Install GitHub Desktop https://desktop.github.com/
 + **Materials**
   + To be posted.
 
