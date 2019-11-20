@@ -76,7 +76,7 @@ us support you please:
   + [Notes & Exercises](https://github.com/saghirb/ggplot2-Intro-Workshop/raw/master/Share/ggplot2-Intro.zip)
   + [`ggplot2` Exercise Solutions](https://github.com/saghirb/ggplot2-Intro-Workshop/raw/master/Share/ggplot2-Solutions.zip) 
   + Additional Materials
-    + [ggplot2 extensions](www.ggplot2-exts.org/)
+    + [ggplot2 extensions](https://www.ggplot2-exts.org/)
     + [ggplot2 Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf)
 
 <br> 
