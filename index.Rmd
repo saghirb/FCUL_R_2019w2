@@ -89,7 +89,7 @@ us support you please:
   + Create a GitHub account at: https://github.com/
   + Recommended: Install GitHub Desktop https://desktop.github.com/
 + **Materials**
-  + To be posted.
+  + [PDF Slides](https://github.com/saghirb/Getting-Started-with-Git-and-GitHub-for-R-Users/raw/master/Presentation/Getting-Started-with-Git-and-GitHub-for-R-Users.pdf)
 
 <br>
 
