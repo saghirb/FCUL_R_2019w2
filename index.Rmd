@@ -97,7 +97,8 @@ us support you please:
   &nbsp;  _Review of previous workshops._ <br>
   &nbsp;  _Practical exercise to spot and fix common errors._
 + **Materials**
-  + To be posted.
+  + [PDF & HTML Slides](https://ilustat.com/shared/r-rdatatable-Tidy-Data-Workshop.zip) - **Note:** PDF slides to be fixed.
+
   
 <br>
 
