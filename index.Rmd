@@ -97,7 +97,7 @@ us support you please:
   &nbsp;  _Review of previous workshops._ <br>
   &nbsp;  _Practical exercise to spot and fix common errors._
 + **Materials**
-  + [PDF & HTML Slides](https://ilustat.com/shared/r-rdatatable-Tidy-Data-Workshop.zip) - **Note:** PDF slides to be fixed.
+  + [PDF & HTML Slides](https://ilustat.com/shared/rdatatable-Tidy-Data-Workshop.zip) - **Note:** PDF slides to be fixed.
 
   
 <br>
@@ -106,7 +106,12 @@ us support you please:
   &nbsp; _Use `data.table` and `ggplot` to work with real data._ <br>
   &nbsp; _Practice reproducible research using a real life example._
 + **Materials**
-  + To be posted.
+  + [Exercise: Tidying the World Bank's "Women in Parliament" Data](https://github.com/saghirb/WiP-Tidy-Data-dt)
+    + From GitHub fork https://github.com/saghirb/WiP-Tidy-Data-dt
+    + Clone this fork (from your GitHub account) to your PC.
+     + Use GitHub Desktop.
+    + Open the WiP-dt-Tidy-Data.Rproj
+    + Regularly commit and then push to your GitHub account.
 
 <br>
 
