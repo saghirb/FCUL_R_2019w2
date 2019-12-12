@@ -3,9 +3,9 @@ title: "FCUL R Workshops"
 author: "Saghir Bashir"
 date: "First Semester 2019-20"
 output:
-  prettydoc::html_pretty:
-    theme: cayman
+    prettydoc::html_pretty:
     highlight: github
+    theme: cayman
 ---
 
 Welcome to the **FCUL R Workshops** website. Workshop information and materials
@@ -106,13 +106,19 @@ us support you please:
   &nbsp; _Use `data.table` and `ggplot` to work with real data._ <br>
   &nbsp; _Practice reproducible research using a real life example._
 + **Materials**
-  + [Exercise: Tidying the World Bank's "Women in Parliament" Data](https://github.com/saghirb/WiP-Tidy-Data-dt)
+  + [**Exercise:** Tidying the World Bank's "Women in Parliament" Data](https://github.com/saghirb/WiP-Tidy-Data-dt)
     + From GitHub fork https://github.com/saghirb/WiP-Tidy-Data-dt
     + Clone this fork (from your GitHub account) to your PC.
      + Use GitHub Desktop.
     + Open the WiP-dt-Tidy-Data.Rproj
     + Regularly commit and then push to your GitHub account.
-
+  + [**A Solution:** Tidying the World Bank's "Women in Parliament" Data](https://github.com/saghirb/Case-Study-WiP-dt)
+    + *Optional:* From GitHub fork https://github.com/saghirb/Case-Study-WiP-dt
+    + Look at the file [Women_in_Parliament_Report.Rmd](https://github.com/saghirb/Case-Study-WiP-dt/blob/master/Women_in_Parliament_Report.Rmd)
+      + Look out for new packages and functions.
+    + On GitHub look into the "Commit" history and "Pull" requests.
+    + Compare it to your solution to the exercise above.
+    
 <br>
 
 + **Workshop 8: Bring Your Data** _(13 Dec 2019)_ <br>
