@@ -114,8 +114,8 @@ us support you please:
     + Regularly commit and then push to your GitHub account.
   + [**A Solution:** Tidying the World Bank's "Women in Parliament" Data](https://github.com/saghirb/Case-Study-WiP-dt)
     + *Optional:* From GitHub fork https://github.com/saghirb/Case-Study-WiP-dt
-    + Look at the file [Women_in_Parliament_Report.Rmd](https://github.com/saghirb/Case-Study-WiP-dt/blob/master/Women_in_Parliament_Report.Rmd)
-      + Look out for new packages and functions.
+    + Look at the files `Women_in_Parliament_Report.Rmd` and `Women_in_Parliament_Report.html`.
+      + Look out for any new packages and functions for you.
     + On GitHub look into the "Commit" history and "Pull" requests.
     + Compare it to your solution to the exercise above.
     
